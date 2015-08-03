@@ -1,0 +1,13 @@
+{
+  "name": "dfutil-stm32-qboard",
+  "version" : "0.8.0",
+  "systems" : [
+    {
+      "host" : "i686-mingw32",
+      "url" : "http://koozyt.github.io/qboard_uploader_stm32/dfutil-stm32-qboard-0.8.0-windows.tar.bz2",
+      "archiveFileName" : "dfutil-stm32-qboard-0.8.0-windows.tar.bz2",
+      "size" : "114884",
+      "checksum" : "SHA-256:521808a047a4d67eb6c360e765997bee46522274e81ea1e0e71f5f511a064c70"
+    }
+  ]
+}
